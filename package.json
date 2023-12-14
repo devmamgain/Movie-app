@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "movie apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "author": "dev mamgain",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}

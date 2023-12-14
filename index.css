@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+.headers{
+    width: 100%;
+    padding:20px;
+    display: flex;
+    position:fixed;
+}
+.searchfield{
+    color: white;
+    padding: 20px;
+    width: 400px;
+    height: 30px;
+    margin-left: 30%;
+    margin-top: 5px;
+}
+.heading1{
+    color: white;
+    font-size: 50px;
+}
+.mainbody{
+   padding-top: 100px;
+    display: flex;
+    text-align: center;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.topbox{
+    width: 250px;
+  height: 500px;
+    color: rgb(142, 140, 140);
+}
+.topbox:hover{
+    scale: 1.1;
+    transition: 0.6s;
+    
+}
+
+.movieimage{
+  width: 250px;
+  height: 340px;
+  padding: 2px;
+  background-color: rgb(245, 203, 203);
+}
